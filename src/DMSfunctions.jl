@@ -1,5 +1,4 @@
 ### DIRECT MULTIPLE SHOOTING PORBLEM FORMULATION
-# https://github.tik.uni-stuttgart.de/ac121730/NOOCjulia/wiki/04-Direct-Multiple-Shooting
 
 #variable notation
 # x,u                   ... original state and input

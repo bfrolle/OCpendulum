@@ -1,5 +1,4 @@
 ### DYNAMIC MODELLING OF THE PENDULUM
-# https://github.tik.uni-stuttgart.de/ac121730/NOOCjulia/wiki/03-Pendulum
 
 ######## PROBLEM PARMAETER
 ##########################

@@ -1,5 +1,4 @@
 ### DISCRETIZATION OF STATES AND INPUTS - SHOOTING GRID DEFINITION
-# https://github.tik.uni-stuttgart.de/ac121730/NOOCjulia/wiki/04-Direct-Multiple-Shooting
 
 TimeSeries = Array{AbstractArray,1} #data type for the shooting grid 
 ######## PROBLEM DIMENSION
